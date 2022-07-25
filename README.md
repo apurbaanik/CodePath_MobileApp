@@ -5,9 +5,8 @@
 `TODO://` - When you click on change in color button, the "Hello World!" text color changes to orange.
 
 ### App Walk-though
-`TODO://` 
 
-<img src="https://recordit.co/2K79rVQoI5" width=200><br>
+<img src= "https://recordit.co/2K79rVQoI5" width=200><br>
 
 `TODO://`
 
